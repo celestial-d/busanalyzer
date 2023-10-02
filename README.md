@@ -8,7 +8,7 @@ This repository contains the research prototype for the XDB project and the foll
 - "[Position: On Failure Diagnosis of the Storage Stack](https://www.ece.iastate.edu/~mai/docs/papers/2020_HotStorage_PositionPoster.pdf)", Duo Zhang, Om Rameshwar Gatla, Runzhou Han, Mai Zheng, HotStorage, 2020
 
 
-XDB is an extension of QEMU to capture SCSI and NVME commands. You can activate the functions through QEMU monitor, which is similar to dump instructions in QEMU. 
+XDB is an extension of QEMU to capture SCSI and NVMe commands. You can activate the functions through QEMU monitor, which is similar to dump instructions in QEMU. 
 
 
 ## Building
