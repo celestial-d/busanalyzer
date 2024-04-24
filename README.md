@@ -18,8 +18,7 @@ Linux platforms, OS-X, Win32 (via the Mingw64 toolchain) and a variety
 of other UNIX targets. The simple steps to build QEMU are:
 
 
-.. code-block:: shell
-
+```
   mkdir build
   
   cd build
@@ -27,6 +26,6 @@ of other UNIX targets. The simple steps to build QEMU are:
   ../configure
   
   make
-
+```
 
 
